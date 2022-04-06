@@ -48,7 +48,7 @@ nbconvert==5.3.1
 nbformat==4.4.0
 ner==0.0.1
 nltk==3.3
-notebook==5.5.0
+notebook==6.4.10
 numpy==1.14.5
 pandas==0.23.1
 pandocfilters==1.4.2
